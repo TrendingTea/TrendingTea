@@ -1,0 +1,54 @@
+name: Campsite Issue Radar
+
+on:
+  schedule:
+    - cron: '0 13 * * *' # Daily at 13:00 UTC (8:00 AM Central)
+  workflow_dispatch:      # Allows manual one-click trigger anytime
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Campsite Bug Crawler
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/campsite_crawler.py
+
+      - name: Commit & Push Updated Radar Digest
+        run: |
+          git config --global user.name "TrendingTea Radar Bot"
+          git config --global user.email "radar@trendingtea.github.io"
+          git add CAMPSITE_RADAR.md
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore(radar): update campsite issue digest [skip ci]"
+            git push
+          else
+            echo "No changes to CAMPSITE_RADAR.md"
+          fi
+
+      - name: Send Issue Notification If Fresh Issues Found
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Read digest preview
+          DIGEST_BODY=$(cat CAMPSITE_RADAR.md)
+          DATE_STR=$(date -u +"%Y-%m-%d")
+          
+          # Check if open radar issue exists or create fresh notification issue
+          gh issue create \
+            --repo ${{ github.repository }} \
+            --title "🏕️ Campsite Radar Alert ($DATE_STR): Fresh Help-Wanted Issues Ready" \
+            --body "$DIGEST_BODY" || echo "Issue creation skipped or limit reached"
