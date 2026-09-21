@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-09-20 16:05 UTC`
+**Last Automated Crawl**: `2026-09-21 18:22 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,10 +8,10 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
-* [**#69837: Example project in Build an Event RSVP lab allows changes to confirmation message**](https://github.com/freeCodeCamp/freeCodeCamp/issues/69837) (2026-09-01) `help wanted` `scope: curriculum`
-* [**#69665: Sign in button on daily challenge archive page is too wide**](https://github.com/freeCodeCamp/freeCodeCamp/issues/69665) (2026-08-21) `help wanted` `scope: UI` `platform: learn`
-* [**#69606: Use of ID versus `id` when referring to the id attribute**](https://github.com/freeCodeCamp/freeCodeCamp/issues/69606) (2026-08-18) `help wanted` `scope: curriculum`
-* [**#65887: Improve solution download format to ZIP project structure**](https://github.com/freeCodeCamp/freeCodeCamp/issues/65887) (2026-02-14) `help wanted` `platform: learn`
+* [**#70260: Remove broken Scrimba video links from Responsive Web Design Principles**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70260) (2026-09-21) `help wanted` `scope: curriculum` `archived coursework`
+* [**#70249: Reusable Mega Navbar workshop has test, instruction, accessibility, and code consistency problems**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70249) (2026-09-21) `help wanted` `scope: curriculum` `frontend libraries v9 cert`
+* [**#70248: Understanding Code Clarity lectures contain inaccurate explanations and wording problems**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70248) (2026-09-21) `help wanted` `scope: curriculum` `js v9 cert`
+* [**#70246: Vowel Balance reference solutions mishandle emoji and single vowels**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70246) (2026-09-21) `help wanted` `scope: curriculum`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
