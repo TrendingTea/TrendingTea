@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-09-21 18:22 UTC`
+**Last Automated Crawl**: `2026-09-22 17:26 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,10 +8,10 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
-* [**#70260: Remove broken Scrimba video links from Responsive Web Design Principles**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70260) (2026-09-21) `help wanted` `scope: curriculum` `archived coursework`
-* [**#70249: Reusable Mega Navbar workshop has test, instruction, accessibility, and code consistency problems**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70249) (2026-09-21) `help wanted` `scope: curriculum` `frontend libraries v9 cert`
-* [**#70248: Understanding Code Clarity lectures contain inaccurate explanations and wording problems**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70248) (2026-09-21) `help wanted` `scope: curriculum` `js v9 cert`
-* [**#70246: Vowel Balance reference solutions mishandle emoji and single vowels**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70246) (2026-09-21) `help wanted` `scope: curriculum`
+* [**#70284: Remove broken Scrimba video links from Basic HTML and HTML5**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70284) (2026-09-22) `help wanted` `scope: curriculum` `archived coursework`
+* [**#70283: Sync the Introduction to Python Basics superblock**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70283) (2026-09-22) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#70282: Remove Device Loan Ledger from the JavaScript objects superblock**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70282) (2026-09-22) `help wanted` `scope: curriculum` `js v9 cert`
+* [**#70281: Sync the Introduction to Loops in JavaScript superblock**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70281) (2026-09-22) `help wanted` `scope: curriculum` `js v9 cert`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
