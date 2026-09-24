@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-09-23 17:34 UTC`
+**Last Automated Crawl**: `2026-09-24 17:38 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,10 +8,10 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
+* [**#70350: Business Card portfolio text test should use textContent**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70350) (2026-09-24) `help wanted` `scope: curriculum`
+* [**#70332: Implement a Queue - Unmentioned/Circular Dependencies Between Tests**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70332) (2026-09-23) `help wanted` `scope: curriculum`
 * [**#70303: Travel Weather Planner has incomplete and inaccurate tests and hints**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70303) (2026-09-23) `help wanted` `scope: curriculum` `python v9 cert`
 * [**#70249: Reusable Mega Navbar workshop has test, instruction, accessibility, and code consistency problems**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70249) (2026-09-21) `help wanted` `scope: curriculum` `frontend libraries v9 cert`
-* [**#70248: Understanding Code Clarity lectures contain inaccurate explanations and wording problems**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70248) (2026-09-21) `help wanted` `scope: curriculum` `js v9 cert`
-* [**#70119: Correct punctuation in the HTML lecture intros**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70119) (2026-09-17) `help wanted` `scope: curriculum` `lesson`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
