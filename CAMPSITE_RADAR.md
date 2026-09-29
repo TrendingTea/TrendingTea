@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-09-28 19:54 UTC`
+**Last Automated Crawl**: `2026-09-29 18:22 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,10 +8,10 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
-* [**#70462: IPv4 Validator tests do not cover valid high octets or nonnumeric segments**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70462) (2026-09-28) `help wanted` `scope: curriculum` `daily coding challenge`
+* [**#70470: Business Card tests require unstated CSS selectors**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70470) (2026-09-29) `help wanted` `scope: curriculum`
 * [**#70332: Implement a Queue - Unmentioned/Circular Dependencies Between Tests**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70332) (2026-09-23) `help wanted` `scope: curriculum`
 * [**#70303: Travel Weather Planner has incomplete and inaccurate tests and hints**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70303) (2026-09-23) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#70249: Reusable Mega Navbar workshop has test, instruction, accessibility, and code consistency problems**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70249) (2026-09-21) `help wanted` `scope: curriculum` `frontend libraries v9 cert`
+* [**#70107: Suggestion: add a diagram to the "What Is the CSS Box Model" lesson**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70107) (2026-09-16) `help wanted` `scope: curriculum`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
