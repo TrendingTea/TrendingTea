@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-10-02 18:07 UTC`
+**Last Automated Crawl**: `2026-10-03 16:52 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -9,9 +9,9 @@
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
 * [**#70332: Implement a Queue - Unmentioned/Circular Dependencies Between Tests**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70332) (2026-09-23) `help wanted` `scope: curriculum` `js v9 cert`
-* [**#70303: Travel Weather Planner has incomplete and inaccurate tests and hints**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70303) (2026-09-23) `help wanted` `scope: curriculum` `python v9 cert`
 * [**#70107: Suggestion: add a diagram to the "What Is the CSS Box Model" lesson**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70107) (2026-09-16) `help wanted` `scope: curriculum`
 * [**#69917: Regex in "Build a medical data validator" (Python curriculum) should use raw string notation**](https://github.com/freeCodeCamp/freeCodeCamp/issues/69917) (2026-09-06) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#69606: Use of ID versus `id` when referring to the id attribute**](https://github.com/freeCodeCamp/freeCodeCamp/issues/69606) (2026-08-18) `help wanted` `scope: curriculum`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
