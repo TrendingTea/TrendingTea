@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-10-04 17:11 UTC`
+**Last Automated Crawl**: `2026-10-05 20:57 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,10 +8,10 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
-* [**#70626: Implement a Stack: pop tests accept an unchanged collection**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70626) (2026-10-04) `help wanted` `scope: curriculum` `js v9 cert`
-* [**#70622: Implement a Stack: peek tests accept changes to the collection**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70622) (2026-10-04) `help wanted` `scope: curriculum` `js v9 cert`
-* [**#70621: Add Employee Profile Validator to the Python basics superblocks**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70621) (2026-10-04) `help wanted` `scope: curriculum` `catalog`
-* [**#70619: ISBN Validator: clarify main digits and check-digit requirements**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70619) (2026-10-04) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#70644: Add styling to `kbd` elements**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70644) (2026-10-04) `help wanted` `scope: UI` `platform: learn`
+* [**#70526: PR path-labeler can remove labels added by concurrent workflows**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70526) (2026-09-30) `help wanted` `scope: tools/scripts`
+* [**#70358: A valid answer is not accepted**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70358) (2026-09-24) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#70332: Implement a Queue - Unmentioned/Circular Dependencies Between Tests**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70332) (2026-09-23) `help wanted` `scope: curriculum` `js v9 cert`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
