@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-10-06 18:41 UTC`
+**Last Automated Crawl**: `2026-10-07 19:07 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -10,8 +10,8 @@ _Global developer reciprocity & curriculum tasks (open to all, no permission nee
 
 * [**#70696: Movie Ticket Booking Calculator Step 21 lacks a subtraction example**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70696) (2026-10-06) `help wanted` `scope: curriculum` `python v9 cert`
 * [**#70695: Movie Ticket Booking Calculator Step 16 lacks inequality and boolean precedence guidance**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70695) (2026-10-06) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#70686: Implement a Stack user stories omit required arguments and collection order**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70686) (2026-10-06) `help wanted` `scope: curriculum` `js v9 cert`
 * [**#70684: Movie Ticket Booking Calculator Step 14 lacks an equality comparison explanation**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70684) (2026-10-06) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#70682: Movie Ticket Booking Calculator Step 3 lacks a greater-than comparison example**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70682) (2026-10-06) `help wanted` `scope: curriculum` `python v9 cert`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
