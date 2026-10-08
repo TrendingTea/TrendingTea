@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-10-07 19:07 UTC`
+**Last Automated Crawl**: `2026-10-08 19:04 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,10 +8,10 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
-* [**#70696: Movie Ticket Booking Calculator Step 21 lacks a subtraction example**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70696) (2026-10-06) `help wanted` `scope: curriculum` `python v9 cert`
 * [**#70695: Movie Ticket Booking Calculator Step 16 lacks inequality and boolean precedence guidance**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70695) (2026-10-06) `help wanted` `scope: curriculum` `python v9 cert`
 * [**#70684: Movie Ticket Booking Calculator Step 14 lacks an equality comparison explanation**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70684) (2026-10-06) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#70682: Movie Ticket Booking Calculator Step 3 lacks a greater-than comparison example**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70682) (2026-10-06) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#70644: Add styling to `kbd` elements**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70644) (2026-10-04) `help wanted` `scope: UI` `platform: learn`
+* [**#70526: PR path-labeler can remove labels added by concurrent workflows**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70526) (2026-09-30) `help wanted` `scope: tools/scripts`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
