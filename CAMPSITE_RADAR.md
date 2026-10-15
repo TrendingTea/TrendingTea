@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-10-14 17:41 UTC`
+**Last Automated Crawl**: `2026-10-15 17:28 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,10 +8,10 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
-* [**#70889: Medical Data Validator Step 2: clarify the dictionary key recap**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70889) (2026-10-14) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#70888: Python sets lesson: clarify which tuples can be set elements**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70888) (2026-10-14) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#70887: Python dictionary loops lesson: correct loop syntax and rounding explanations**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70887) (2026-10-14) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#70927: Medical Data Validator Step 38: test rejects keyword flags argument**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70927) (2026-10-15) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#70923: Medical Data Validator Step 15: tests do not verify preservation of existing records**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70923) (2026-10-15) `help wanted` `scope: curriculum` `python v9 cert`
 * [**#70886: Python dictionaries lesson: clarify valid keys, method question, and view outputs**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70886) (2026-10-14) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#70880: Running Python scripts lesson: document VS Code setup and correct wording**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70880) (2026-10-14) `help wanted` `scope: curriculum` `python v9 cert`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
