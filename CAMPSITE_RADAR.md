@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-10-15 17:28 UTC`
+**Last Automated Crawl**: `2026-10-16 17:04 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,10 +8,10 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
-* [**#70927: Medical Data Validator Step 38: test rejects keyword flags argument**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70927) (2026-10-15) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#70923: Medical Data Validator Step 15: tests do not verify preservation of existing records**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70923) (2026-10-15) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#70886: Python dictionaries lesson: clarify valid keys, method question, and view outputs**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70886) (2026-10-14) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#70880: Running Python scripts lesson: document VS Code setup and correct wording**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70880) (2026-10-14) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71033: Clarify Lighthouse and PageSpeed Insights in the accessibility auditing tools lesson**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71033) (2026-10-16) `help wanted` `scope: curriculum` `lesson`
+* [**#71012: Correct search-box wording and clarify Spotlight instructions in the file search lesson**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71012) (2026-10-16) `help wanted` `scope: curriculum` `lesson`
+* [**#71011: Clarify file operations and correct wording in the Explorer and Finder lesson**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71011) (2026-10-16) `help wanted` `scope: curriculum` `lesson`
+* [**#71010: Correct pinning instructions and feature descriptions in the file management applications lesson**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71010) (2026-10-16) `help wanted` `scope: curriculum` `lesson`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
