@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-10-17 16:01 UTC`
+**Last Automated Crawl**: `2026-10-18 16:13 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -9,9 +9,9 @@
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
 * [**#71012: Correct search-box wording and clarify Spotlight instructions in the file search lesson**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71012) (2026-10-16) `help wanted` `scope: curriculum` `lesson`
-* [**#71010: Correct pinning instructions and feature descriptions in the file management applications lesson**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71010) (2026-10-16) `help wanted` `scope: curriculum` `lesson`
 * [**#70987: Quiz creation fails in create-next-challenge and insert-challenge**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70987) (2026-10-16) `help wanted` `scope: curriculum` `scope: tools/scripts`
 * [**#70526: PR path-labeler can remove labels added by concurrent workflows**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70526) (2026-09-30) `help wanted` `scope: tools/scripts`
+* [**#65887: Improve solution download format to ZIP project structure**](https://github.com/freeCodeCamp/freeCodeCamp/issues/65887) (2026-02-14) `help wanted` `platform: learn`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
