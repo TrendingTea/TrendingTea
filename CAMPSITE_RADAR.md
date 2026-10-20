@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-10-19 18:53 UTC`
+**Last Automated Crawl**: `2026-10-20 17:37 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,10 +8,10 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
-* [**#71112: Classes and objects lectures contain incorrect Python examples and explanations**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71112) (2026-10-19) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71110: Graphs and trees lectures are missing inline code formatting**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71110) (2026-10-19) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71109: Loops and Sequences Review is missing inline code formatting**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71109) (2026-10-19) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71106: Email simulator workshop is missing inline code formatting**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71106) (2026-10-19) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71178: Musical Instrument Inventory Step 3 tests require an unstated assignment order**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71178) (2026-10-20) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71170: Salary Tracker Step 21 is missing the required error message**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71170) (2026-10-20) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71167: Breadth-first search workshop has inaccurate wording and typos**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71167) (2026-10-20) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71164: Binary search step 13 accepts an incorrect upper-bound update**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71164) (2026-10-20) `help wanted` `scope: curriculum` `python v9 cert`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
