@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-10-21 17:46 UTC`
+**Last Automated Crawl**: `2026-10-22 17:43 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,10 +8,10 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
-* [**#71227: Correct grammar and formatting in four Python labs**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71227) (2026-10-21) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71219: Fix code examples in the polymorphism lecture**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71219) (2026-10-21) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71218: Distinguish Big O upper bounds from tight growth rates in the algorithms lesson**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71218) (2026-10-21) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71217: Grammar and formatting fixes in Understanding Inheritance and Polymorphism lectures**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71217) (2026-10-21) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71313: Remove redundant pass reminders from the Shortest Path Algorithm workshop**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71313) (2026-10-22) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71312: Discount calculator Step 24 does not specify required parameter annotations**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71312) (2026-10-22) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71307: Build a Player Interface tests require specific initializer assignment syntax**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71307) (2026-10-22) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71305: Build a Planet Class tests require specific initializer assignment syntax**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71305) (2026-10-22) `help wanted` `scope: curriculum` `python v9 cert`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
