@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-10-22 17:43 UTC`
+**Last Automated Crawl**: `2026-10-23 17:35 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,10 +8,10 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
-* [**#71313: Remove redundant pass reminders from the Shortest Path Algorithm workshop**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71313) (2026-10-22) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71312: Discount calculator Step 24 does not specify required parameter annotations**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71312) (2026-10-22) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71307: Build a Player Interface tests require specific initializer assignment syntax**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71307) (2026-10-22) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71305: Build a Planet Class tests require specific initializer assignment syntax**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71305) (2026-10-22) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71290: Document the restrictions in the Selection Sort lab description**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71290) (2026-10-22) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71275: Replace boilerplate introductions for two Python OOP lecture blocks**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71275) (2026-10-22) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71148: Correct explanations in the dynamic programming lecture**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71148) (2026-10-20) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#70987: Quiz creation fails in create-next-challenge and insert-challenge**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70987) (2026-10-16) `help wanted` `scope: curriculum` `scope: tools/scripts`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
