@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-10-24 16:21 UTC`
+**Last Automated Crawl**: `2026-10-25 16:54 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,10 +8,10 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
+* [**#71374: Python: make separate print call requirements explicit**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71374) (2026-10-25) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71373: N-Queens lab tests reject valid solutions returned in a different order**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71373) (2026-10-25) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71372: Build a Hash Table incorrectly equates Unicode with ASCII**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71372) (2026-10-25) `help wanted` `scope: curriculum` `python v9 cert`
 * [**#71354: Build a Hash Table hints should use the populated instance**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71354) (2026-10-24) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71352: Linked list class workshop tests accept statements in the wrong order**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71352) (2026-10-24) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71349: Merge sort Step 4 rejects a valid explicit slice endpoint**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71349) (2026-10-24) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71348: Discount calculator workshop: clarify initializer behavior and required type annotations**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71348) (2026-10-24) `help wanted` `scope: curriculum` `python v9 cert`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
