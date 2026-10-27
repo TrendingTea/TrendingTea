@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-10-26 18:55 UTC`
+**Last Automated Crawl**: `2026-10-27 18:28 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,10 +8,10 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
-* [**#71384: Media Catalogue steps 37 and 38 accept sets instead of the required lists**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71384) (2026-10-26) `help wanted` `scope: curriculum` `python v9 cert`
 * [**#71348: Discount calculator workshop: clarify initializer behavior and required type annotations**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71348) (2026-10-24) `help wanted` `scope: curriculum` `python v9 cert`
 * [**#71290: Document the restrictions in the Selection Sort lab description**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71290) (2026-10-22) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71275: Replace boilerplate introductions for two Python OOP lecture blocks**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71275) (2026-10-22) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71148: Correct explanations in the dynamic programming lecture**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71148) (2026-10-20) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#70987: Quiz creation fails in create-next-challenge and insert-challenge**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70987) (2026-10-16) `help wanted` `scope: curriculum` `scope: tools/scripts`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
