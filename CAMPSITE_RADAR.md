@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-10-29 18:43 UTC`
+**Last Automated Crawl**: `2026-10-30 18:19 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,9 +8,9 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
+* [**#71469: Correct explanations and missing concepts in the Python Loops and Sequences Review**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71469) (2026-10-30) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71459: Python Basics Review omits taught concepts and function arguments**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71459) (2026-10-30) `help wanted` `scope: curriculum` `python v9 cert`
 * [**#71447: Python variable naming guidance incorrectly excludes non-ASCII characters**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71447) (2026-10-29) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71430: Python Basics Review: correct explanations, examples, and formatting**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71430) (2026-10-28) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71429: Email simulator: tests reject valid solutions in steps 30–45**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71429) (2026-10-28) `help wanted` `scope: curriculum` `python v9 cert`
 * [**#70987: Quiz creation fails in create-next-challenge and insert-challenge**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70987) (2026-10-16) `help wanted` `scope: curriculum` `scope: tools/scripts`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
