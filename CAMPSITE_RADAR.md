@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-10-30 18:19 UTC`
+**Last Automated Crawl**: `2026-10-31 17:26 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,10 +8,10 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
-* [**#71469: Correct explanations and missing concepts in the Python Loops and Sequences Review**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71469) (2026-10-30) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71459: Python Basics Review omits taught concepts and function arguments**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71459) (2026-10-30) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71447: Python variable naming guidance incorrectly excludes non-ASCII characters**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71447) (2026-10-29) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#70987: Quiz creation fails in create-next-challenge and insert-challenge**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70987) (2026-10-16) `help wanted` `scope: curriculum` `scope: tools/scripts`
+* [**#71503: Introduction to Loops in JavaScript is missing the Campus Directory Normalizer workshop**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71503) (2026-10-31) `help wanted` `scope: curriculum` `catalog`
+* [**#71498: Python debugging lesson headings should use title case**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71498) (2026-10-31) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71482: Curly apostrophes in JavaScript and Front-End Development lessons**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71482) (2026-10-31) `help wanted` `scope: curriculum` `js v9 cert`
+* [**#71481: Correct reference copying and method binding explanations in JavaScript object lessons**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71481) (2026-10-31) `help wanted` `scope: curriculum` `js v9 cert`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
