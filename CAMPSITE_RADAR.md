@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-10-31 17:26 UTC`
+**Last Automated Crawl**: `2026-11-01 18:11 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -9,9 +9,9 @@
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
 * [**#71503: Introduction to Loops in JavaScript is missing the Campus Directory Normalizer workshop**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71503) (2026-10-31) `help wanted` `scope: curriculum` `catalog`
-* [**#71498: Python debugging lesson headings should use title case**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71498) (2026-10-31) `help wanted` `scope: curriculum` `python v9 cert`
 * [**#71482: Curly apostrophes in JavaScript and Front-End Development lessons**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71482) (2026-10-31) `help wanted` `scope: curriculum` `js v9 cert`
 * [**#71481: Correct reference copying and method binding explanations in JavaScript object lessons**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71481) (2026-10-31) `help wanted` `scope: curriculum` `js v9 cert`
+* [**#71480: Correct DOM and Web API lesson explanations, question, and formatting**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71480) (2026-10-31) `help wanted` `scope: curriculum` `js v9 cert`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
