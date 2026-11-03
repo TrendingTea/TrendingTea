@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-11-02 22:00 UTC`
+**Last Automated Crawl**: `2026-11-03 19:53 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,10 +8,10 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
+* [**#71565: Clarify standard-library module questions in the Dictionaries and Sets Quiz**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71565) (2026-11-03) `help wanted` `scope: curriculum` `python v9 cert`
 * [**#71535: Searching and Sorting Algorithms Review has inaccurate explanations and missing taught concepts**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71535) (2026-11-02) `help wanted` `scope: curriculum` `python v9 cert`
 * [**#71534: Recursion Review: align coverage and examples with the Python module**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71534) (2026-11-02) `help wanted` `scope: curriculum` `python v9 cert`
 * [**#71532: Data Structures Review contains inaccurate explanations and omits taught concepts**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71532) (2026-11-02) `help wanted` `scope: curriculum` `python v9 cert`
-* [**#71531: Object Oriented Programming Review has capitalization, punctuation, spacing, and grammar errors**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71531) (2026-11-02) `help wanted` `scope: curriculum` `python v9 cert`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
