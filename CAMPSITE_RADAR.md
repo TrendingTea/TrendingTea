@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-11-04 20:08 UTC`
+**Last Automated Crawl**: `2026-11-05 20:23 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,7 +8,7 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
-* [**#71565: Clarify standard-library module questions in the Dictionaries and Sets Quiz**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71565) (2026-11-03) `help wanted` `scope: curriculum` `python v9 cert`
+* [**#71399: Table on certification page doesn't look good.**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71399) (2026-10-27) `help wanted`
 * [**#70987: Quiz creation fails in create-next-challenge and insert-challenge**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70987) (2026-10-16) `help wanted` `scope: curriculum` `scope: tools/scripts`
 * [**#70526: PR path-labeler can remove labels added by concurrent workflows**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70526) (2026-09-30) `help wanted` `scope: tools/scripts`
 * [**#65887: Improve solution download format to ZIP project structure**](https://github.com/freeCodeCamp/freeCodeCamp/issues/65887) (2026-02-14) `help wanted` `platform: learn`
