@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-11-16 22:38 UTC`
+**Last Automated Crawl**: `2026-11-17 21:26 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,10 +8,10 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
-* [**#71609: Mega Navbar step 11: React.useState hasn't been taught yet**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71609) (2026-11-06) `help wanted` `scope: curriculum` `frontend libraries v9 cert`
 * [**#71399: Table on certification page doesn't look good.**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71399) (2026-10-27) `help wanted`
 * [**#70526: PR path-labeler can remove labels added by concurrent workflows**](https://github.com/freeCodeCamp/freeCodeCamp/issues/70526) (2026-09-30) `help wanted` `scope: tools/scripts`
 * [**#65887: Improve solution download format to ZIP project structure**](https://github.com/freeCodeCamp/freeCodeCamp/issues/65887) (2026-02-14) `help wanted` `platform: learn`
+* [**#63788: Escaping HTML entities**](https://github.com/freeCodeCamp/freeCodeCamp/issues/63788) (2025-11-12) `help wanted`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
