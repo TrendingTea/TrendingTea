@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-11-24 22:50 UTC`
+**Last Automated Crawl**: `2026-11-25 22:03 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
@@ -8,10 +8,10 @@
 ### 🏕️ freeCodeCamp ([`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp))
 _Global developer reciprocity & curriculum tasks (open to all, no permission needed)_
 
-* [**#71720: Clarify wording for Daily Coding Challenge - Rectangle Count**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71720) (2026-11-18) `help wanted` `scope: curriculum`
 * [**#71627: Inaccurate description of default sizing in Rothko painting #12**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71627) (2026-11-09) `help wanted` `scope: curriculum` `rwd v9 cert`
 * [**#71585: Bug: Settings sagas silently drop errors on failure**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71585) (2026-11-04) `help wanted` `platform: learn`
 * [**#71399: Table on certification page doesn't look good.**](https://github.com/freeCodeCamp/freeCodeCamp/issues/71399) (2026-10-27) `help wanted`
+* [**#68228: add Number.isInteger to module review**](https://github.com/freeCodeCamp/freeCodeCamp/issues/68228) (2026-06-25) `help wanted` `scope: curriculum`
 
 ### 🌤️ NOAA weather.gov 2.0 ([`weather-gov/weather.gov`](https://github.com/weather-gov/weather.gov))
 _Federal atmospheric telemetry & USWDS web modernization_
