@@ -1,5 +1,5 @@
 # 🏕️ Campsite Radar: Live Issue & Bug Crawler
-**Last Automated Crawl**: `2026-11-25 22:03 UTC`
+**Last Automated Crawl**: `2026-11-26 22:01 UTC`
 
 > *"Leave the campsite cleaner than you found it. Here are the freshest upstream issues ready for intellectual bread."*
 
